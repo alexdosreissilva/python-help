@@ -1,0 +1,3 @@
+# coding=<nome da codificacao>
+or
+# -*- coding:<nome da codificacao> -*-
