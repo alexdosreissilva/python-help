@@ -1,0 +1,9 @@
+import <nome do modulo>
+
+print(<nome do modulo>.__file__)
+
+or 
+
+import sys
+
+print(sys.path)

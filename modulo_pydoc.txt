@@ -1,0 +1,5 @@
+pydoc <nome do modulo>
+
+pydoc -w <nome do modulo> - Cria um arquivo html com a descricao do modulo
+
+pydoc -p 8080 - Levanta um servidor com as documentacoes dos modulos
