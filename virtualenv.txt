@@ -1,0 +1,3 @@
+virtualenv <nome do ambiente>
+pip freeze > requirements.txt
+pip install -r requirements.txt
